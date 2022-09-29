@@ -1,0 +1,28 @@
+body{
+    font-family: arial;
+}
+h1{
+    border-bottom: dotted;
+    border-width: 1px;
+    border-color: gray;
+}
+
+img{
+    width:100px  ;
+    height: 100px;
+}
+
+span{
+    font-weight:bold
+}
+
+a{
+    text-decoration: none;
+    color: #04779e;
+}
+p.borda{
+    text-align: center;
+    border-top: dotted;
+    border-width: 1px;
+    border-color:gray ;
+}
